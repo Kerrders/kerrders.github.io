@@ -1,0 +1,18 @@
+{
+  "stats": {
+    "hp": "Health",
+    "attack": "Attack",
+    "defense": "Defense",
+    "special-attack": "Special Attack",
+    "special-defense": "Special Defense",
+    "speed": "Speed"
+  },
+  "moveTable": {
+    "title": "List of attacks",
+    "learnTypes": {
+      "levelUp": "Levelup",
+      "tutor": "Learn",
+      "machine": "Learn (TM)"
+    }
+  }
+}
