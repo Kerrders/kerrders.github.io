@@ -70,10 +70,10 @@ MIT
 MIT
 
 @ngx-translate/core
-MIT
+SEE LICENSE IN LICENSE
 
 @ngx-translate/http-loader
-MIT
+SEE LICENSE IN LICENSE
 
 bootstrap
 MIT
