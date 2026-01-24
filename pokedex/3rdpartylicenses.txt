@@ -161,11 +161,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 --------------------------------------------------------------------------------
-Package: ngx-infinite-scroll
-License: "MIT"
-
-
---------------------------------------------------------------------------------
 Package: @ngx-translate/http-loader
 License: "SEE LICENSE IN LICENSE"
 
